@@ -1,1 +1,2 @@
 Ovo je moj file.
+Ovo je moj file izmjena.
